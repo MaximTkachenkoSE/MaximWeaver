@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaximWeaver
-- 👀 I’m interested in software engeeniring.
+- 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning JS, CSS, HTML.
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me: maksimtkacenko82@gmail.com
